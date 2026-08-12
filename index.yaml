@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   kit-appstreaming-session:
     - apiVersion: v2
+      created: "2026-08-12T06:45:00Z"
+      description: streamingKit application with extension hot-reload support.
+      digest: be3346f7240d47953896b36510a1dc91b933a7842c0c2cfe1e0778043ecd1f53
+      name: kit-appstreaming-session
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn16.tgz
+      version: 1.11.10-olsyn16
+    - apiVersion: v2
       created: "2026-08-12T06:15:00Z"
       description: streamingKit application with extension hot-reload support.
       digest: 6c4a722ea0afd06650163f2ae9fdfa8b5122366be19a4dc8f6d3385b4c701915
@@ -10,4 +19,4 @@ entries:
       urls:
         - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn15.tgz
       version: 1.11.10-olsyn15
-generated: "2026-08-12T06:15:00Z"
+generated: "2026-08-12T06:45:00Z"
