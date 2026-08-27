@@ -1,22 +1,46 @@
 apiVersion: v1
 entries:
   kit-appstreaming-session:
-    - apiVersion: v2
-      created: "2026-08-12T06:45:00Z"
-      description: streamingKit application with extension hot-reload support.
-      digest: be3346f7240d47953896b36510a1dc91b933a7842c0c2cfe1e0778043ecd1f53
-      name: kit-appstreaming-session
-      type: application
-      urls:
-        - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn16.tgz
-      version: 1.11.10-olsyn16
-    - apiVersion: v2
-      created: "2026-08-12T06:15:00Z"
-      description: streamingKit application with extension hot-reload support.
-      digest: 6c4a722ea0afd06650163f2ae9fdfa8b5122366be19a4dc8f6d3385b4c701915
-      name: kit-appstreaming-session
-      type: application
-      urls:
-        - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn15.tgz
-      version: 1.11.10-olsyn15
-generated: "2026-08-12T06:45:00Z"
+  - apiVersion: v2
+    appVersion: 1.11.5
+    created: "2026-08-27T16:03:15.758987012+10:00"
+    description: streamingKit application with extension hot-reload support.
+    digest: 569741b0b4b8eb340c5b21ca74fbfdd6a0d89083f301d1243c0f636ca7fc642f
+    home: https://github.com/NVIDIA-Omniverse/kit-appstreaming-api
+    keywords:
+    - streaming
+    - kit
+    name: kit-appstreaming-session
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn17.tgz
+    version: 1.11.10-olsyn17
+  - apiVersion: v2
+    appVersion: 1.11.5
+    created: "2026-08-27T16:03:15.757291283+10:00"
+    description: streamingKit application with extension hot-reload support.
+    digest: be3346f7240d47953896b36510a1dc91b933a7842c0c2cfe1e0778043ecd1f53
+    home: https://github.com/NVIDIA-Omniverse/kit-appstreaming-api
+    keywords:
+    - streaming
+    - kit
+    name: kit-appstreaming-session
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn16.tgz
+    version: 1.11.10-olsyn16
+  - apiVersion: v2
+    appVersion: 1.11.5
+    created: "2026-08-27T16:03:15.756691298+10:00"
+    description: streamingKit application with extension hot-reload support.
+    digest: 6c4a722ea0afd06650163f2ae9fdfa8b5122366be19a4dc8f6d3385b4c701915
+    home: https://github.com/NVIDIA-Omniverse/kit-appstreaming-api
+    keywords:
+    - streaming
+    - kit
+    name: kit-appstreaming-session
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/geyervalmont/olsyn-streaming-charts/main/kit-appstreaming-session-1.11.10-olsyn15.tgz
+    version: 1.11.10-olsyn15
+generated: "2026-08-27T16:03:15.75584936+10:00"
